@@ -1,0 +1,79 @@
+div{
+    padding:20px;
+}
+body{
+  margin:0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.code{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.dp{
+  width: 25%;
+
+}
+.bike{
+  width: 22%;
+  height: 150px;
+  float: right;
+  margin-right: 120px;
+}
+
+
+.pro{
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h1{
+  color:#66BFBF;
+  margin-top: 0px;
+  font-size: 562.5%;
+  font-family: 'Sacramento', cursive;
+  margin: 150px auto 0 auto;
+  line-height: 1;
+
+}
+h2{
+
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+
+}
+h3{
+  color:#11999E;
+}
+
+.sp{
+  font-family: sans-serif;
+}
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+  margin-top: 120px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 350px;
+
+}
+.top-container{
+  position: relative;
+  padding-top:100px;
+  background-color: #dbf6e9;
+
+}
+.skill-row{
+  width:50%;
+  margin:60px auto 60px auto;
+  text-align: left;
+  line-height: 2;
+
+}
